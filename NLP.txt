@@ -1,0 +1,17 @@
+Orthography:
+Collection of rules that lets us visually reresent a language.
+
+Orthography in alphabetic:
+The visual symbols represent the individual sound in a spoken language (called phonemes).
+
+Phoneme:
+any of the perceptually distinct units of sound in a specified language that distinguish one word from another, for example p, b, d, and t in the English words pad, pat, bad, and bat.
+
+How does Orthographic features helps in identifying language?
+ 
+case:
+Visual distortion of word shape (i.e., cAsE aLtErNaTiOn) was utilized because, although visually distorted words have lost word-shape cues, they preserve the cue value of words (i.e., spelling patterns). Therefore, it was hypothesized that if one is sensitive to alphabetic orthography, or if one's inner mechanism of processing an alphabetic word is efficient, then the visual disruption of word-shape cues should not affect one's sensitivity to sequences of letters in words. In other words, this study focused on the magnitude of the effect of case alternation in word recognition as an index of the sensitivity to alphabetic words. Results showed that the magnitude of the case alternation effect in a naming task was significantly larger for the ESL participants whose L1 is not alphabetic (i.e., Chinese and Japanese) than the ESL participants whose L1 is alphabetic (i.e., Iranians: Persian as an L1). This result seems to indicate that the Persian speakers, due to the facilitating influence of their L1 orthography, were less influenced by case alternation than the Chinese and Japanese speakers, whose L1 orthographies are not alphabetic. This finding suggests that the first language orthographic features affect the orthographic coding mechanisms (i.e., word recognition mechanisms) in a second language.
+ESL: English as second language
+
+Suprasegmentals:
+
